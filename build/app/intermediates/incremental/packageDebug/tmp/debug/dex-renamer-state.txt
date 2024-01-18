@@ -1,0 +1,4 @@
+#Thu Jan 18 11:48:39 ICT 2024
+base.0=C\:\\Users\\DELL 7390\\Downloads\\TB2_Mobile-master\\TB2_Mobile-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
